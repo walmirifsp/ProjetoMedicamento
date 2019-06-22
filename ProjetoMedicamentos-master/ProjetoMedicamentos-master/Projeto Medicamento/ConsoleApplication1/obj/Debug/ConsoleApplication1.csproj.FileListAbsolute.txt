@@ -1,0 +1,12 @@
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 10 - 00-05-2019 - Medicamento\Projeto Medicamento\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 10 - 00-05-2019 - Medicamento\Projeto Medicamento\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 10 - 00-05-2019 - Medicamento\Projeto Medicamento\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 10 - 00-05-2019 - Medicamento\Projeto Medicamento\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 10 - 00-05-2019 - Medicamento\Projeto Medicamento\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 10 - 00-05-2019 - Medicamento\Projeto Medicamento\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 10 - 25-04-2019 - Medicamento\Projeto Medicamento\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 10 - 25-04-2019 - Medicamento\Projeto Medicamento\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 10 - 25-04-2019 - Medicamento\Projeto Medicamento\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 10 - 25-04-2019 - Medicamento\Projeto Medicamento\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 10 - 25-04-2019 - Medicamento\Projeto Medicamento\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 10 - 25-04-2019 - Medicamento\Projeto Medicamento\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
